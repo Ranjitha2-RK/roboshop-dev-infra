@@ -7,9 +7,9 @@ variable "environment" {
 }
 
 variable "zone_id" {
-    default = "Z0948150OFPSYTNVYZOY"
+    default = "Z04329491JVZ2CIKZJO2V"
 }
 
 variable "domain_name" {
-    default = "daws86s.fun"
+    default = "daws86s.sbs"
 }
